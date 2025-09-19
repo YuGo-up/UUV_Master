@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\lib",
+    "\\lib\\inc",
+    "\\lib\\src",
+    "\\third_party",
+    "\\third_party\\QJoysticks",
+    "\\third_party\\QJoysticks\\etc",
+    "\\third_party\\QJoysticks\\etc\\resources",
+    "\\third_party\\QJoysticks\\lib",
+    "\\third_party\\QJoysticks\\lib\\SDL",
+    "\\third_party\\QJoysticks\\src"
+  ],
+  "SelectedNode": "\\mainwindow.ui",
+  "PreviewInSolutionExplorer": false
+}
