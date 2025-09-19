@@ -11,6 +11,4 @@ https://github.com/FEITENG-0828/UUV_Master
 技术路线：
 采用UDP协议进行机器人数据传输，实现遥控
 采用webrtc协议进行图像采集，实现视频流传输
-子项目
-UUV WebRTC 视频传输系统
-rtc_client
+
